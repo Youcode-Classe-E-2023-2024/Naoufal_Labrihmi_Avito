@@ -13,9 +13,7 @@ function pagination(totalpages, currentpage) {
       pagelist += `<li class="page-item${activeClass}"><a class="page-link" href="#" data-page="${p}">${p}</a></li>`;
     }
     const nextClass = currentpage == totalpages ? " disabled" : "";
-    pagelist += `<li class="page-item${nextClass}"><a class="page-link" href="#" data-page="${
-      currentpage + 1
-    }">Next</a></li>`;
+    pagelist += `<li class="page-item${nextClass}"><a class="page-link" href="#" data-page="${currentpage + 1}">Next</a></li>`;
     pagelist += `</ul>`;
   }
 
