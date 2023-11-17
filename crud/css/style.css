@@ -40,7 +40,7 @@ code {
 /* The hero image */
 .hero-image {
     /* The image used */
-    background-image: url("../images/wallpapper.jpg");
+    /* background-image: url("../images/wallpapper.jpg"); */
 
     /* Set a specific height */
     height: 350px;
@@ -59,4 +59,8 @@ code {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+}
+
+.back{
+    background-image: url(../images/hisoka.jpg) !important;
 }

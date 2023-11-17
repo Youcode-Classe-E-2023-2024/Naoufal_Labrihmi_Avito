@@ -70,4 +70,3 @@ try{
       <!-- End Table Product -->
       <br>
     </div><!-- /.container -->
-<?php include("inc/footer.php") ?>

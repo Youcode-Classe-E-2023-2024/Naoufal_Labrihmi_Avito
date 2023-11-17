@@ -40,11 +40,15 @@
     <!-- End Navbar -->
 
     <!-- Start Hero Image -->
+    <div class="back">
     <div class="hero-image">
         <div class="hero-text">
-            <h1>CRUD Operations</h1>
-            <p>PHP and MySQL using PDO</p>
-            <button class="btn btn-danger btn-lg"><i class="fa fa-youtube"></i> Youtube Channel</button>
+
+            <h1>CRUD SITE</h1>
+            <p>Naoufal</p>
+            <button class="btn btn-danger btn-lg"> Annonce</button>
         </div>
+    </div>
+    </div>
     </div>
     <!-- End Hero Image -->
