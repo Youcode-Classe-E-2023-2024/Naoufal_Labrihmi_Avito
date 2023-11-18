@@ -20,7 +20,7 @@
     <!-- Start Navabar-->
     <nav class="navbar navbar-expand-md navbar-dark bg-danger fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#"><i class="fa fa-code"></i> HelloWorldApp</a>
+            <a class="navbar-brand" href="#"> AVITO</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -46,7 +46,7 @@
 
             <h1>CRUD SITE</h1>
             <p>Naoufal</p>
-            <button class="btn btn-danger btn-lg"> Annonce</button>
+            <button class="btn btn-danger btn-lg">Avito Annonce</button>
         </div>
     </div>
     </div>

@@ -53,4 +53,3 @@
         <!-- End create form -->
         <br>
     </div><!-- /.container -->
-    <?php include("inc/footer.php") ?>

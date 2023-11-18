@@ -59,4 +59,3 @@ $product =  $stmt->fetch();
         <!-- End Show a product -->
         <br>
     </div><!-- /.container -->
-    <?php include("inc/footer.php") ?>
